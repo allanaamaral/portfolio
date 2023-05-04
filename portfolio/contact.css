@@ -1,0 +1,35 @@
+#middle{
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.575);
+    padding: 30px;
+    border-radius: 50px;
+    margin-top: 15%;
+    margin-left: 40%;
+}
+
+#middle p{
+    font-size: 30px;
+    margin-bottom: 15px;
+    text-align: left;
+    text-decoration: none;
+}
+
+#middle h1{
+    margin-bottom: 20px;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+#middle span{
+    font-size: 18px;
+    font-family: 'Work Sans', sans-serif;
+}
+
+#middle a {
+    text-decoration: none;
+}
+
+#linkedin span:hover{
+    color: rgb(158, 158, 158);
+}

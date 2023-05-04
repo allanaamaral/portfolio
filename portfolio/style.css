@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@100&family=Work+Sans:ital,wght@1,100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+body {
+    background-image: url('imagens/20443a8f-9b05-434f-b275-f511750107a9.png');
+    background-size: cover;
+}
+
+#side{
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.575);
+    width: 250px;
+    height: 100%;
+    margin-top: 50px;
+    padding-top: 30px;
+    text-align: center;
+    transition: .5s;
+}
+
+#side h2{
+    font-family: 'Jost', sans-serif;
+}
+
+p{
+    font-family: 'Jost', sans-serif;
+    margin-bottom: 30px;
+}
+
+#top h1{
+    font-family: 'Work Sans', sans-serif;
+    padding-left: 15px;
+}
+
+#side img{
+    height: 130px;
+    border-radius: 80px;
+    margin-bottom: 5px;
+}
+
+header {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.575);
+    width: 100%;
+    padding: 10px;
+    height: 30px;
+    transition-duration: .5s;
+}
+
+#side a{
+    text-align: left;
+    display: block;
+    line-height: 40px;
+    padding-left: 30px;
+    transition-duration: .5s;
+    text-decoration: none;
+}
+
+#side a:hover{
+    background: #616060ad;
+    border-radius: 15px;
+}
+
+#side ion-icon{
+    padding-right: 10px;
+    font-size: 20px;
+}
+
+#side span{
+    font-family: 'Jost', sans-serif;
+    font-size: 18px;
+}
+
+#center{
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.575);
+    padding: 30px;
+    border-radius: 200px;
+    margin-top: 15%;
+    margin-left: 40%;
+}
+
+#center h1{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 40px;
+    padding: 30px;
+    text-align: center;
+}
+
+#side p{
+    font-family: 'Work Sans', sans-serif;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,116 @@
+#w1 img{
+    width: 400px;
+    padding-top: 50px;
+    padding-left: 30%
+}
+
+#w2 img{
+    width: 400px;
+    padding-top: 50px;
+}
+
+#logo1 img{
+    width: 300px;
+    padding-left: 25%;
+}
+
+#logos1 img{ 
+    width: 300px;
+}
+
+#logo2 img{
+    width: 300px;
+    padding-left: 25%;
+}
+
+#logos2 img{
+    width: 300px;
+}
+
+#logo3 img{
+    width: 300px;
+    padding-left: 25%;
+}
+
+#logos3 img{
+    width: 300px;
+}
+
+#logo4 img{
+    width: 300px;
+    padding-left: 25%;
+}
+
+#logos4 img{
+    width: 300px;
+}
+
+#logo5 img{
+    width: 300px;
+    padding-left: 25%;
+}
+
+#logos5 img{
+    width: 300px;
+}
+
+#logo6 img{
+    width: 300px;
+    padding-left: 25%;
+}
+
+#logos6 img{
+    width: 300px;
+}
+
+#logo7 img{
+    width: 300px;
+    padding-left: 25%;
+}
+
+#logos7 img{
+    width: 300px;
+}
+
+#logo8 img{
+    padding-left: 25%;
+    width: 300px;
+}
+
+#logos8 img{
+    width: 300px;
+}
+
+#card1 img{
+    width: 400px;
+    padding-left: 30%;
+}
+
+#card2 img{
+    width: 400px;
+}
+
+#card3 img{
+    width: 400px;
+    padding-left: 30%;
+}
+
+#card4 img{
+    width: 400px;
+}
+
+#card5 img{
+    width: 400px;
+    padding-left: 30%;
+}
+
+#card6 img{
+    width: 400px;
+}
+
+@media (max-width: 1228px){
+    #photos img {
+        padding-left: 50%;
+        width: 40%;
+    }
+}
